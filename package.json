@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/ishuvam009/signUp_Auth/issues"
   },
-  "homepage": "https://github.com/ishuvam009/signUp_Auth#readme"
+  "homepage": "https://github.com/ishuvam009/signUp_Auth#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2",
+    "nodemailer": "^6.9.14"
+  }
 }
