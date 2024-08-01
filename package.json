@@ -1,0 +1,23 @@
+{
+  "name": "signup_auth",
+  "version": "1.0.0",
+  "description": "Auth App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishuvam009/signUp_Auth.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express"
+  ],
+  "author": "iSHuvam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishuvam009/signUp_Auth/issues"
+  },
+  "homepage": "https://github.com/ishuvam009/signUp_Auth#readme"
+}
